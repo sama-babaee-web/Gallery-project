@@ -6,7 +6,7 @@
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-- [Demo Project](https://github.com/sama-babaee-web/Gallery-project)
+- [Demo Project](https://sama-babaee-web.github.io/Gallery-project/)
 
 - Developed by Sama Babaee 👻
 
