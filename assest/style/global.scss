@@ -1,0 +1,30 @@
+@font-face {
+    font-family: josefin;
+    src: url(../Font-Josefin_Slab/JosefinSlab-Italic-VariableFont_wght.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 100%;
+    font-family: josefin;
+    
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+div,ul, li, section, header, nav, footer, aside, article, figure, .row{
+    display: flex;
+    flex-wrap: wrap;
+}
