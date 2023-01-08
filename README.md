@@ -6,11 +6,11 @@
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://github.com/sama-babaee-web/Gallery-project)
 
-- Developed by pouria farahani
+- Developed by Sama Babaee
 
-- Created - 2022-11-26
+- Created - 2023-01-08
 
 - Technologies Used - Html , css , scss
 
