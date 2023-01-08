@@ -1,6 +1,6 @@
-# Accordion-Menu-By-React
+# Gallery 
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**See a special and attractive photo gallery**
 
 ![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
@@ -12,10 +12,10 @@
 
 - Created - 2022-11-26
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css , scss
 
 - Hooks Used : useState 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/sama_babaee_web/) and [linkedin](https://www.linkedin.com/in/sama-babaee-54135324b/)
