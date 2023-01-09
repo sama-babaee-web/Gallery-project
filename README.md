@@ -2,9 +2,9 @@
 
 **See a special and attractive photo gallery**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal]![view](https://user-images.githubusercontent.com/107030945/211267529-90ecf581-c77c-4584-ad6b-7c2eaa7232bd.jpg)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
 
 - [Demo Project](https://sama-babaee-web.github.io/Gallery-project/)
 
